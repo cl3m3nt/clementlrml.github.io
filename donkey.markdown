@@ -4,15 +4,12 @@ title: Donkey
 permalink: /donkey/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![useful image]({{ site.url }}/assets/donkey.JPG)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Donkey car is an [open source](https://github.com/autorope/donkeycar) self driving platform for small scale car. I am building my own car for fun and practice of robotics and artificial intelligence. At the end of the process, you get Autonomous Driving in your living room, pretty cool !
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find Donkey Car official web site at:
+[donkeycar](https://www.donkeycar.com/)
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can find instructions to build your own at:
+[documentation](http://docs.donkeycar.com/)
